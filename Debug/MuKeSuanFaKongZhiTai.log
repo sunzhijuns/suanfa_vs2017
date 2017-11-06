@@ -1,0 +1,12 @@
+﻿D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(MuKeSuanFaKongZhiTai.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  MuKeSuanFa.cpp
+d:\cocosworkspace\mukesuanfakongzhitai\mukesuanfakongzhitai\mukesuanfa.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\cocosworkspace\mukesuanfakongzhitai\mukesuanfakongzhitai\sorttesthelper.h(11): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\cocosworkspace\mukesuanfakongzhitai\mukesuanfakongzhitai\mukesuanfa.cpp(41): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\cocosworkspace\mukesuanfakongzhitai\mukesuanfakongzhitai\sorttesthelper.h(23): warning C4018: “<”: 有符号/无符号不匹配
+  d:\cocosworkspace\mukesuanfakongzhitai\mukesuanfakongzhitai\mukesuanfa.cpp(34): note: 参见对正在编译的函数 模板 实例化“void SortTestHelper::printArray<int>(T [],int)”的引用
+          with
+          [
+              T=int
+          ]
+  MuKeSuanFaKongZhiTai.vcxproj -> D:\CocosWorkSpace\MuKeSuanFaKongZhiTai\Debug\MuKeSuanFa.exe
